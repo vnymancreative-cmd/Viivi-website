@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#CFEAFB"/>
+      <stop offset="55%" stop-color="#DCEFFC"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="200" height="200" fill="#FFFFFF"/>
+  <circle cx="100" cy="100" r="98" fill="url(#bgGradient)"/>
+  <g fill="#173A66">
+    <polygon points="50,53 53.83,102.41 75,145 71.17,97.59"/>
+    <polygon points="75,145 95.81,118.46 100,85 79.19,111.54"/>
+    <polygon points="100,85 104.19,118.46 125,145 120.81,111.54"/>
+    <polygon points="125,145 146.17,102.41 150,53 128.83,97.59"/>
+  </g>
+</svg>
