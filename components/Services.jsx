@@ -36,10 +36,10 @@ const SERVICES = [
 
 export default function Services() {
   return (
-    <section id="services" className="px-6 py-24 bg-paper-2">
+    <section id="services" className="px-6 py-16 bg-paper-2">
       <div className="max-w-6xl mx-auto">
         <Reveal>
-          <div className="flex items-end justify-between flex-wrap gap-4 mb-14">
+          <div className="flex items-end justify-between flex-wrap gap-4 mb-9">
             <div>
               <p className="font-mono tracking-wide text-xs text-deep">SERVICES</p>
               <h2

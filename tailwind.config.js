@@ -7,14 +7,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        paper: "#F7F6F3",
-        "paper-2": "#EFECE5",
-        ink: "#181A1B",
-        "ink-soft": "#6B6964",
-        line: "#DEDDD4",
+        paper: "#F5EFE3",
+        "paper-2": "#EBE0C9",
+        ink: "#1C1A15",
+        "ink-soft": "#6F6A5A",
+        line: "#DDD0B0",
         deep: "#173A66",
         "deep-2": "#0F2A4D",
-        sky: "#CFE4F7",
+        sky: "#D8E6FA",
+        bright: "#4D78D9",
       },
       fontFamily: {
         display: ["var(--font-display)", "serif"],

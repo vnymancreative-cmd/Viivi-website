@@ -3,7 +3,7 @@ import Mark from "./Mark";
 
 export default function About() {
   return (
-    <section id="about" className="px-6 py-24 max-w-6xl mx-auto">
+    <section id="about" className="px-6 py-16 max-w-6xl mx-auto">
       <div className="grid lg:grid-cols-12 gap-14 items-center">
         <Reveal className="lg:col-span-5">
           <div

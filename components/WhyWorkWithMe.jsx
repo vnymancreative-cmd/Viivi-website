@@ -26,7 +26,7 @@ const WHY = [
 
 export default function WhyWorkWithMe() {
   return (
-    <section className="px-6 py-24 max-w-6xl mx-auto">
+    <section className="px-6 py-16 max-w-6xl mx-auto">
       <div className="grid lg:grid-cols-12 gap-12">
         <div className="lg:col-span-4">
           <Reveal>

@@ -27,7 +27,7 @@ export default function Contact() {
     "w-full mt-2 px-4 py-3 rounded-lg text-sm bg-white border border-line text-ink";
 
   return (
-    <section id="contact" className="px-6 py-24 max-w-6xl mx-auto">
+    <section id="contact" className="px-6 py-16 max-w-6xl mx-auto">
       <div className="grid lg:grid-cols-12 gap-14">
         <div className="lg:col-span-5">
           <Reveal>

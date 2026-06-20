@@ -30,12 +30,12 @@ const PROCESS = [
 
 export default function Process() {
   return (
-    <section id="process" className="px-6 py-24 bg-paper-2">
+    <section id="process" className="px-6 py-16 bg-paper-2">
       <div className="max-w-6xl mx-auto">
         <Reveal>
           <p className="font-mono tracking-wide text-xs text-deep">HOW WE WORK TOGETHER</p>
           <h2
-            className="font-display mt-3 mb-14 text-ink"
+            className="font-display mt-3 mb-9 text-ink"
             style={{ fontSize: "clamp(1.8rem, 3vw, 2.4rem)" }}
           >
             A clear path from first call to launch

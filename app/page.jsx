@@ -5,6 +5,8 @@ import WhyWorkWithMe from "../components/WhyWorkWithMe";
 import Process from "../components/Process";
 import Portfolio from "../components/Portfolio";
 import Testimonials from "../components/Testimonials";
+import Pricing from "../components/Pricing";
+import BonusServices from "../components/BonusServices";
 import Results from "../components/Results";
 import About from "../components/About";
 import FinalCTA from "../components/FinalCTA";
@@ -22,6 +24,8 @@ export default function Home() {
         <Process />
         <Portfolio />
         <Testimonials />
+        <Pricing />
+        <BonusServices />
         <Results />
         <About />
         <FinalCTA />

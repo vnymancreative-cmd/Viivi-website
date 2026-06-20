@@ -3,7 +3,7 @@ import Reveal from "./Reveal";
 
 export default function FinalCTA() {
   return (
-    <section className="px-6 py-24 bg-paper-2">
+    <section className="px-6 py-16 bg-paper-2">
       <Reveal>
         <div className="max-w-3xl mx-auto text-center">
           <h2

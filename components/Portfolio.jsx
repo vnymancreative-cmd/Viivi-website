@@ -62,7 +62,7 @@ function CaseCard({ c, i }) {
 
 export default function Portfolio() {
   return (
-    <section id="work" className="px-6 py-24 max-w-6xl mx-auto">
+    <section id="work" className="px-6 py-16 max-w-6xl mx-auto">
       <Reveal>
         <p className="font-mono tracking-wide text-xs text-deep">SELECTED WORK</p>
         <h2
@@ -71,7 +71,7 @@ export default function Portfolio() {
         >
           Real businesses, redesigned with intent
         </h2>
-        <p className="text-sm mb-14 text-ink-soft">
+        <p className="text-sm mb-9 text-ink-soft">
           Placeholder case studies shown for layout — swap in live project details and screenshots.
         </p>
       </Reveal>

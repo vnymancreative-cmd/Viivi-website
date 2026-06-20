@@ -9,7 +9,7 @@ const RESULTS = [
 
 export default function Results() {
   return (
-    <section className="px-6 py-20 bg-deep">
+    <section className="px-6 py-14 bg-deep">
       <div className="max-w-6xl mx-auto">
         <Reveal>
           <p className="font-mono tracking-wide text-xs mb-12 text-sky">RESULTS, NOT JUST VISUALS</p>
